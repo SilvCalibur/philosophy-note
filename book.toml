@@ -1,0 +1,9 @@
+[book]
+title = "哲学学习笔记"
+authors = ["SilvCaliber"]
+language = "zh-CN"
+src = "src"
+
+[output.html]
+default-theme = "dark"
+preferred-dark-theme = "coal"
